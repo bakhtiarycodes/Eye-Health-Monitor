@@ -1,0 +1,12 @@
+# Requirements for Eye Health Monitor
+opencv-python>=4.5
+mediapipe>=0.8
+PyQt5>=5.12
+numpy>=1.19
+pandas>=1.1
+scikit-learn>=0.24
+joblib>=1.0
+
+# Optional (for development / testing / notebooks)
+matplotlib>=3.3
+jupyterlab
